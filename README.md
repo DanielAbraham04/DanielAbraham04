@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Abraham</h1>
-<h3 align="center">MS CS student at UIC and a passionate data engineer</h3>
+<h3 align="center">MS CS student at UIC and a passionate Data Engineer</h3>
 
 - 📫 How to reach me **mdanielabrahamus98@gmail.com**
 
