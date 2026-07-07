@@ -49,9 +49,8 @@ Data Engineer with 5+ years of experience designing scalable, cloud-based data p
 |---|---|
 | **[Cricket Analytics with AWS](https://github.com/DanielAbraham04)** | Cloud data pipeline analyzing IPL ball-by-ball data using S3, Glue, and Athena; transformed nested JSON into a structured, queryable multi-layer architecture. |
 | **[Formula1 Data Engineering (Azure)](https://github.com/DanielAbraham04)** | Medallion-architecture pipeline on Azure Databricks and Spark; semi-structured data transformed into Delta Lake tables on ADLS Gen2, orchestrated with Data Factory. |
-| **[LLM-Powered Agent for the Wumpus World](https://github.com/DanielAbraham04)** | Autonomous agent using Claude 3.5 and DeepSeek-R1 for reasoning under uncertainty, with dynamic prompting and memory across thousands of simulation trials. |
+| **[LLM-Powered Agent for the Wumpus World](https://github.com/DanielAbraham04/wumpus-world-llm-agent/)** | Autonomous agent using Claude 3.5 and DeepSeek-R1 for reasoning under uncertainty, with dynamic prompting and memory across thousands of simulation trials. |
 
-*(Update the links above to point directly to each project's repo.)*
 
 ---
 
