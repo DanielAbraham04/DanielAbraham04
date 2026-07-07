@@ -86,13 +86,6 @@ Data Engineer with 5+ years of experience designing scalable, cloud-based data p
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DanielAbraham04&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielAbraham04" alt="GitHub Streak" height="165"/>
-</p>
-
 <div align="center">
 
 📫 **mdanielabrahamus98@gmail.com** &nbsp;|&nbsp; 🔗 **[linkedin.com/in/danielabraham4](https://linkedin.com/in/danielabraham4)**
